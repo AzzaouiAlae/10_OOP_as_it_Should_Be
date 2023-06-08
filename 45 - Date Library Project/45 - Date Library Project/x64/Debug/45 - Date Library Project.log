@@ -1,0 +1,10 @@
+﻿  45 - Date Library Project.cpp
+D:\source\10 - OOP as it Should Be\45 - Date Library Project\45 - Date Library Project\clsString.h(134,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\source\10 - OOP as it Should Be\45 - Date Library Project\45 - Date Library Project\clsString.h(240,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\10 - OOP as it Should Be\45 - Date Library Project\45 - Date Library Project\clsString.h(263,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\10 - OOP as it Should Be\45 - Date Library Project\45 - Date Library Project\clsString.h(345,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\source\10 - OOP as it Should Be\45 - Date Library Project\45 - Date Library Project\clsString.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\10 - OOP as it Should Be\45 - Date Library Project\45 - Date Library Project\clsString.h(408,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\source\10 - OOP as it Should Be\45 - Date Library Project\45 - Date Library Project\clsDate.h(186,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\source\10 - OOP as it Should Be\45 - Date Library Project\45 - Date Library Project\clsDate.h(190,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  45 - Date Library Project.vcxproj -> D:\source\10 - OOP as it Should Be\45 - Date Library Project\x64\Debug\45 - Date Library Project.exe

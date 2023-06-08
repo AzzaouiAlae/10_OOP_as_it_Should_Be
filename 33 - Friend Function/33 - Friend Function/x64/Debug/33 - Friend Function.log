@@ -1,0 +1,5 @@
+﻿  33 - Friend Function.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(703,5): error MSB6006: "CL.exe" exited with code 2.
+D:\source\10 - OOP as it Should Be\33 - Friend Function\33 - Friend Function\33 - Friend Function.cpp(17,14): error C2248: 'clsA::_Var1': cannot access private member declared in class 'clsA'
+D:\source\10 - OOP as it Should Be\33 - Friend Function\33 - Friend Function\33 - Friend Function.cpp(7,9): message : see declaration of 'clsA::_Var1'
+D:\source\10 - OOP as it Should Be\33 - Friend Function\33 - Friend Function\33 - Friend Function.cpp(5,7): message : see declaration of 'clsA'

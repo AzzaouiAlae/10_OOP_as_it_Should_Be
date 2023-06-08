@@ -1,0 +1,3 @@
+﻿  11 - Calculator Solution.cpp
+D:\source\10 - OOP as it Should Be\11 - Calculator Solution\11 - Calculator Solution\11 - Calculator Solution.cpp(77,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  11 - Calculator Solution.vcxproj -> D:\source\10 - OOP as it Should Be\11 - Calculator Solution\x64\Debug\11 - Calculator Solution.exe
